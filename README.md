@@ -1,6 +1,6 @@
 # About this Organization
 
-The goal of this organization is to host maintain all kinds of tools and libraries useful for operating system development in Rust. We're happy about everyone that wants to join us! Just drop by in our [gitter channel](https://gitter.im/rust-osdev/Lobby) to request an invite.
+The goal of this organization is to host and maintain all kinds of tools and libraries useful for operating system development in Rust. We're happy about everyone that wants to join us! Just drop by in our [gitter channel](https://gitter.im/rust-osdev/Lobby) to request an invite.
 
 Note that we are not an official Rust organization.
 
