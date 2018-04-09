@@ -20,6 +20,6 @@ Contributions are more than welcome! If you have any suggestions, ideas, or proj
 The following people are currently members of this organization (alphabetically):
 
 - Jiří Zárevúcky ([@le-jzr](https://github.com/le-jzr)): Contributor to [helenos](https://github.com/HelenOS/helenos).
-- Lachlan Sneff ([@lachlansneff](https://github.com/lachlansneff)): Author of the [nebulet](https://github.com/nebulet/nebulet) web assembly kernel.
+- Lachlan Sneff ([@lachlansneff](https://github.com/lachlansneff)): Author of [nebulet os](https://github.com/nebulet/nebulet).
 - Philipp Oppermann ([@phil-opp](https://github.com/phil-opp)): Author of the [“Writing an OS in Rust”](https://os.phil-opp.com/) series.
 - Rob Gries ([@robert-w-gries](https://github.com/robert-w-gries)): Author of [rxinu](https://github.com/robert-w-gries/rxinu), a Rust implementation of the Xinu educational operating system.
