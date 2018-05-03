@@ -24,3 +24,4 @@ The following people are currently members of this organization (alphabetically)
 - Philipp Oppermann ([@phil-opp](https://github.com/phil-opp)): Author of the [“Writing an OS in Rust”](https://os.phil-opp.com/) series.
 - Rob Gries ([@robert-w-gries](https://github.com/robert-w-gries)): Author of [rxinu](https://github.com/robert-w-gries/rxinu), a Rust implementation of the Xinu educational operating system.
 - Joel Wejdenstal ([@xacrimon](https://github.com/xacrimon)): Author of the [skp](https://github.com/xacrimon/skp) project.
+- Isaac Woods ([@IsaacWoods](https://github.com/IsaacWoods)): Author of [Pebble OS](https://github.com/pebble-os/pebble)
