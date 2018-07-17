@@ -12,6 +12,7 @@ Currently we are hosting the following projects:
   - [`os_bootinfo`](https://github.com/rust-osdev/os_bootinfo): The boot information structure used by the `bootloader` to pass information (e.g. memory maps) to the kernel.
 - [`bootimage`](https://github.com/rust-osdev/bootimage): A tool to transform a kernel ELF file into a bootable disk image.
 - [`multiboot2-elf64`](https://github.com/rust-osdev/multiboot2-elf64): Allows parsing the boot information of the Multiboot2 standard for ELF64 kernels.
+- [`register-rs`](https://github.com/rust-osdev/register-rs): A common interface to CPU and MMIO registers, featuring type-safe bitfield manipulation.
 
 ## Contributing
 Contributions are more than welcome! If you have any suggestions, ideas, or projects you would like to host under this organization, don't hesitate to contact us!
@@ -24,5 +25,6 @@ The following people are currently members of this organization:
 - Rob Gries ([@robert-w-gries](https://github.com/robert-w-gries)): Author of [rxinu](https://github.com/robert-w-gries/rxinu), a Rust implementation of the Xinu educational operating system.
 - Jiří Zárevúcky ([@le-jzr](https://github.com/le-jzr)): Contributor to [helenos](https://github.com/HelenOS/helenos).
 - Joel Wejdenstal ([@xacrimon](https://github.com/xacrimon)): Author of the [skp](https://github.com/xacrimon/skp) project.
-- Isaac Woods ([@IsaacWoods](https://github.com/IsaacWoods)): Author of [Pebble OS](https://github.com/pebble-os/pebble)
-- Patrik Cyvoct ([@Sh4d1](https://github.com/Sh4d1)): Cloud and OSdev enthusiast
+- Isaac Woods ([@IsaacWoods](https://github.com/IsaacWoods)): Author of [Pebble OS](https://github.com/pebble-os/pebble).
+- Patrik Cyvoct ([@Sh4d1](https://github.com/Sh4d1)): Cloud and OSdev enthusiast.
+- Andre Richter ([@andre-richter](https://github.com/andre-richter)): Author of [Bare Metal Rust Programming on Raspberry Pi 3](https://github.com/andre-richter/rust-raspi3-tutorial).
