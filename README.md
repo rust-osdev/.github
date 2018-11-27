@@ -11,6 +11,7 @@ Currently we are hosting the following projects:
 - [`bootloader`](https://github.com/rust-osdev/bootloader): An experimental, pure-Rust, legacy bootloader.
 - [`bootimage`](https://github.com/rust-osdev/bootimage): A tool to transform a kernel ELF file into a bootable disk image.
 - [`multiboot2-elf64`](https://github.com/rust-osdev/multiboot2-elf64): Allows parsing the boot information of the Multiboot2 standard for ELF64 kernels.
+- [`acpi`](https://github.com/rust-osdev/acpi): Rust library for parsing ACPI tables and AML 
 
 ## Contributing
 Contributions are more than welcome! If you have any suggestions, ideas, or projects you would like to host under this organization, don't hesitate to contact us!
