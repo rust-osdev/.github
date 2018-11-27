@@ -9,10 +9,8 @@ Currently we are hosting the following projects:
 
 - [`x86_64`](https://github.com/rust-osdev/x86_64): Provides general abstractions for `x86_64` systems and access to architecture specific instructions and registers.
 - [`bootloader`](https://github.com/rust-osdev/bootloader): An experimental, pure-Rust, legacy bootloader.
-  - [`os_bootinfo`](https://github.com/rust-osdev/os_bootinfo): The boot information structure used by the `bootloader` to pass information (e.g. memory maps) to the kernel.
 - [`bootimage`](https://github.com/rust-osdev/bootimage): A tool to transform a kernel ELF file into a bootable disk image.
 - [`multiboot2-elf64`](https://github.com/rust-osdev/multiboot2-elf64): Allows parsing the boot information of the Multiboot2 standard for ELF64 kernels.
-- [`register-rs`](https://github.com/rust-osdev/register-rs): A common interface to CPU and MMIO registers, featuring type-safe bitfield manipulation.
 
 ## Contributing
 Contributions are more than welcome! If you have any suggestions, ideas, or projects you would like to host under this organization, don't hesitate to contact us!
