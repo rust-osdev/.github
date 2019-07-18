@@ -13,6 +13,7 @@ Currently we are hosting the following projects:
 - [`multiboot2-elf64`](https://github.com/rust-osdev/multiboot2-elf64): Allows parsing the boot information of the Multiboot2 standard for ELF64 kernels.
 - [`acpi`](https://github.com/rust-osdev/acpi): Rust library for parsing ACPI tables and AML.
 - [`uefi-rs`](https://github.com/rust-osdev/uefi-rs): Rust library for interacting with UEFI firmware.
+- [`ansi_rgb`](https://github.com/rust-osdev/ansi_rgb): Colorful console text using ANSI escape sequences.
 
 ## Contributing
 Contributions are more than welcome! If you have any suggestions, ideas, or projects you would like to host under this organization, don't hesitate to contact us!
@@ -28,3 +29,4 @@ The following people are currently members of this organization:
 - Isaac Woods ([@IsaacWoods](https://github.com/IsaacWoods)): Author of [Pebble OS](https://github.com/pebble-os/pebble).
 - Patrik Cyvoct ([@Sh4d1](https://github.com/Sh4d1)): Cloud and OSdev enthusiast.
 - Andre Richter ([@andre-richter](https://github.com/andre-richter)): Author of [Bare Metal Rust Programming on Raspberry Pi 3](https://github.com/andre-richter/rust-raspi3-tutorial).
+- Matt Thomas ([@matthew-a-thomas](https://github.com/matthew-a-thomas)): C# developer who fell in with the wrong crowd.
