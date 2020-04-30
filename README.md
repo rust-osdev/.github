@@ -30,3 +30,4 @@ The following people are currently members of this organization:
 - Patrik Cyvoct ([@Sh4d1](https://github.com/Sh4d1)): Cloud and OSdev enthusiast.
 - Andre Richter ([@andre-richter](https://github.com/andre-richter)): Author of [Bare Metal Rust Programming on Raspberry Pi 3](https://github.com/andre-richter/rust-raspi3-tutorial).
 - Matt Thomas ([@matthew-a-thomas](https://github.com/matthew-a-thomas)): C# developer who fell in with the wrong crowd.
+- Ryland Morgan ([@rybot666](https://github.com/rybot666)): Contributor to the bootloader rewrite
