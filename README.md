@@ -21,14 +21,14 @@ Contributions are more than welcome! If you have any suggestions, ideas, or proj
 ## Members
 The following people are currently members of this organization:
 
-- Philipp Oppermann ([@phil-opp](https://github.com/phil-opp)): Author of the [“Writing an OS in Rust”](https://os.phil-opp.com/) series.
-- Lachlan Sneff ([@lachlansneff](https://github.com/lachlansneff)): Author of [nebulet os](https://github.com/nebulet/nebulet).
-- Rob Gries ([@robert-w-gries](https://github.com/robert-w-gries)): Author of [rxinu](https://github.com/robert-w-gries/rxinu), a Rust implementation of the Xinu educational operating system.
-- Jiří Zárevúcky ([@le-jzr](https://github.com/le-jzr)): Contributor to [helenos](https://github.com/HelenOS/helenos).
-- Joel Wejdenstal ([@xacrimon](https://github.com/xacrimon)): Author of the [skp](https://github.com/xacrimon/skp) project.
-- Isaac Woods ([@IsaacWoods](https://github.com/IsaacWoods)): Author of [Pebble OS](https://github.com/pebble-os/pebble).
-- Patrik Cyvoct ([@Sh4d1](https://github.com/Sh4d1)): Cloud and OSdev enthusiast.
-- Andre Richter ([@andre-richter](https://github.com/andre-richter)): Author of [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials).
-- Matt Thomas ([@matthew-a-thomas](https://github.com/matthew-a-thomas)): C# developer who fell in with the wrong crowd.
+- Philipp Oppermann ([@phil-opp](https://github.com/phil-opp)): Author of the [“Writing an OS in Rust”](https://os.phil-opp.com/) series
+- Lachlan Sneff ([@lachlansneff](https://github.com/lachlansneff)): Author of [nebulet os](https://github.com/nebulet/nebulet)
+- Rob Gries ([@robert-w-gries](https://github.com/robert-w-gries)): Author of [rxinu](https://github.com/robert-w-gries/rxinu), a Rust implementation of the Xinu educational operating system
+- Jiří Zárevúcky ([@le-jzr](https://github.com/le-jzr)): Contributor to [helenos](https://github.com/HelenOS/helenos)
+- Joel Wejdenstal ([@xacrimon](https://github.com/xacrimon)): Author of the [skp](https://github.com/xacrimon/skp) project
+- Isaac Woods ([@IsaacWoods](https://github.com/IsaacWoods)): Author of [Pebble OS](https://github.com/pebble-os/pebble)
+- Patrik Cyvoct ([@Sh4d1](https://github.com/Sh4d1)): Cloud and OSdev enthusiast
+- Andre Richter ([@andre-richter](https://github.com/andre-richter)): Author of [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+- Matt Thomas ([@matthew-a-thomas](https://github.com/matthew-a-thomas)): C# developer who fell in with the wrong crowd
 - Ryland Morgan ([@rybot666](https://github.com/rybot666)): Contributor to the bootloader rewrite
 - Stefan Lankes ([@stlankes](https://github.com/stlankes/)): Contributor to the library operating system [RustyHermit](https://github.com/hermitcore/libhermit-rs)
