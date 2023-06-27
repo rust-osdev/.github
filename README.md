@@ -29,6 +29,5 @@ The following people are currently members of this organization:
 - Isaac Woods ([@IsaacWoods](https://github.com/IsaacWoods)): Author of [Pebble OS](https://github.com/pebble-os/pebble)
 - Patrik Cyvoct ([@Sh4d1](https://github.com/Sh4d1)): Cloud and OSdev enthusiast
 - Andre Richter ([@andre-richter](https://github.com/andre-richter)): Author of [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-- Matt Thomas ([@matthew-a-thomas](https://github.com/matthew-a-thomas)): C# developer who fell in with the wrong crowd
 - Ryland Morgan ([@rybot666](https://github.com/rybot666)): Contributor to the bootloader rewrite
 - Stefan Lankes ([@stlankes](https://github.com/stlankes/)): Contributor to the library operating system [RustyHermit](https://github.com/hermitcore/libhermit-rs)
