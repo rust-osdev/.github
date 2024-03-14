@@ -1,6 +1,8 @@
 # About this Organization
 
-The goal of this organization is to host and maintain all kinds of tools and libraries useful for operating system development in Rust. We're happy about everyone that wants to join us! Just drop by in our [Zulip chat](https://rust-osdev.zulipchat.com) to request an invite.
+The goal of this organization is to host and maintain all kinds of tools and libraries useful for operating system development in Rust. The organization's home page is https://rust-osdev.com, where _This Month in Rust OSDev_ is published.
+
+If you're interested in Rust and OS development, please join us on [Zulip]!
 
 Note that we are not an official Rust organization.
 
@@ -28,4 +30,6 @@ Currently we are hosting the following projects:
 - [`xhci`](https://github.com/rust-osdev/xhci): Library providing xHCI types.
 
 ## Contributing
-Contributions are more than welcome! If you have any suggestions, ideas, or projects you would like to host under this organization, don't hesitate to contact us!
+Contributions are more than welcome! If you have any suggestions, ideas, or projects you would like to host under this organization, don't hesitate to [contact us][Zulip]!
+
+[Zulip]: https://rust-osdev.zulipchat.com
