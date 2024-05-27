@@ -13,6 +13,7 @@ Currently we are hosting the following projects:
 - [`ansi_rgb`](https://github.com/rust-osdev/ansi_rgb): Colorful console text using ANSI escape sequences.
 - [`bootimage`](https://github.com/rust-osdev/bootimage): A tool to transform a kernel ELF file into a bootable disk image.
 - [`bootloader`](https://github.com/rust-osdev/bootloader): An experimental, pure-Rust, legacy bootloader.
+- [`endian-num`](https://github.com/rust-osdev/endian-num): Byte-order-aware numeric types.
 - [`ieee1275-rs`](https://github.com/rust-osdev/ieee1275-rs): IEEE-1275/OpenFirmware Rust environment.
 - [`multiboot2`](https://github.com/rust-osdev/multiboot2): Allows parsing the boot information of the Multiboot2 standard for ELF64 kernels.
 - [`ovmf-prebuilt`](https://github.com/rust-osdev/ovmf-prebuilt): Prebuilt binaries of EDK2 firmware.
