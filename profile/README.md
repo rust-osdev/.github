@@ -27,6 +27,7 @@ Currently we are hosting the following projects:
 - [`uefi-rs`](https://github.com/rust-osdev/uefi-rs): Rust library for interacting with UEFI firmware.
 - [`usb`](https://github.com/rust-osdev/usb): Utilities for working with USB devices.
 - [`vga`](https://github.com/rust-osdev/vga): Library to program VGA hardware.
+- [`virtio-spec-rs`](https://github.com/rust-osdev/virtio-spec-rs): Definitions from the Virtual I/O Device (VIRTIO) specification.
 - [`volatile`](https://github.com/rust-osdev/volatile): Provides volatile wrapper types for raw pointers.
 - [`x86_64`](https://github.com/rust-osdev/x86_64): Provides general abstractions for `x86_64` systems and access to architecture specific instructions and registers.
 - [`xhci`](https://github.com/rust-osdev/xhci): Library providing xHCI types.
