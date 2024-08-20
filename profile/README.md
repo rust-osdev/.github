@@ -16,7 +16,10 @@ Currently we are hosting the following projects:
 - [`endian-num`](https://github.com/rust-osdev/endian-num): Byte-order-aware numeric types.
 - [`fuse-abi`](https://github.com/rust-osdev/fuse-abi): FUSE device bindings.
 - [`ieee1275-rs`](https://github.com/rust-osdev/ieee1275-rs): IEEE-1275/OpenFirmware Rust environment.
-- [`multiboot2`](https://github.com/rust-osdev/multiboot2): Allows parsing the boot information of the Multiboot2 standard for ELF64 kernels.
+- [`multiboot2`](https://github.com/rust-osdev/multiboot2):
+  - `multiboot2`: Allows parsing and constructing the boot information of the Multiboot2 standard.
+  - `multiboot2-common`: Common abstractions for the project.
+  - `multiboot2-header`: Allows parsing and constructing headers following the Multiboot2 standard.
 - [`ovmf-prebuilt`](https://github.com/rust-osdev/ovmf-prebuilt): Prebuilt binaries of EDK2 firmware.
 - [`pci_types`](https://github.com/rust-osdev/pci_types): Library providing types for handling PCI/PCIe enumeration and configuration.
 - [`pic8259`](https://github.com/rust-osdev/pic8259): Abstractions for 8259 and 8259A Programmable Interrupt Controllers (PICs).
