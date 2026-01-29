@@ -16,6 +16,7 @@ Currently we are hosting the following projects:
 - [`endian-num`](https://github.com/rust-osdev/endian-num): Byte-order-aware numeric types.
 - [`fuse-abi`](https://github.com/rust-osdev/fuse-abi): FUSE device bindings.
 - [`ieee1275-rs`](https://github.com/rust-osdev/ieee1275-rs): IEEE-1275/OpenFirmware Rust environment.
+- [`mem-barrier`](https://github.com/rust-osdev/mem-barrier): Cross-architecture, no-std memory barriers.
 - [`multiboot2`](https://github.com/rust-osdev/multiboot2):
   - `multiboot2`: Allows parsing and constructing the boot information of the Multiboot2 standard.
   - `multiboot2-common`: Common abstractions for the project.
