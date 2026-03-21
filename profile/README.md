@@ -26,7 +26,7 @@ Currently we are hosting the following projects:
 - [`pic8259`](https://github.com/rust-osdev/pic8259): Abstractions for 8259 and 8259A Programmable Interrupt Controllers (PICs).
 - [`ps2-mouse`](https://github.com/rust-osdev/ps2-mouse): Library to manage a PS/2 mouse.
 - [`spinning_top`](https://github.com/rust-osdev/spinning_top): A simple spinlock crate.
-- [`uart_16550`](https://github.com/rust-osdev/uart_16550): Minimal library for uart_16550 serial output.
+- [`uart_16550`](https://github.com/rust-osdev/uart_16550): Simple yet highly configurable low-level driver for 16550 UART devices.
 - [`ucs2-rs`](https://github.com/rust-osdev/ucs2-rs): UCS2 conversion utilities.
 - [`uefi-rs`](https://github.com/rust-osdev/uefi-rs): Rust library for interacting with UEFI firmware.
 - [`usb`](https://github.com/rust-osdev/usb): Utilities for working with USB devices.
